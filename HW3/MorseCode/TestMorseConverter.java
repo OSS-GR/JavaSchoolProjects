@@ -3,6 +3,7 @@ import java.nio.file.Paths;
 import java.util.Scanner;
 
 /**
+ * This file was created by Professor Ayman Zeidan to serve as a test file.
  * Unit test class for MorseCodeConvert.java
  * Class assumes that MorseCodes.txt is in the classpath, if not update the path accordingly
  *
