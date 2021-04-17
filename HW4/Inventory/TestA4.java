@@ -4,6 +4,7 @@
  * Test file for Assignment #4.
  * <p>
  * Please do not modify
+ * @author Ayman Zeidan
  */
 
 import java.io.File;
